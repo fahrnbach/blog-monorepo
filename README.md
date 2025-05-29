@@ -1,6 +1,8 @@
 ## 🚀 Live Demo
 https://blog.fahrnbach.one
 
+![Screenshot](./portfolio-screenshot.png)
+
 ## 📁 Folder Structure
 
 ```
