@@ -1,5 +1,6 @@
-📁 Folder Structure
+## 📁 Folder Structure
 
+```
 blog-app/
 ├── backend/                  # Python CMS API
 │   ├── app/                  # Your Python code (e.g. Flask/FastAPI modules)
@@ -13,11 +14,13 @@ blog-app/
 │
 ├── .gitignore
 └── README.md                 # Root project documentation
+```
 
 ---
 
-📄 Root `README.md`
+## 📄 Root `README.md`
 
+```markdown
 # Blog CMS with Angular Frontend and Python Backend
 
 This is a full-stack blog project built with a **Python backend CMS API** and an **Angular frontend**. Posts are stored as Markdown files and served via a headless API to a dynamic front-end site.
@@ -26,10 +29,11 @@ This is a full-stack blog project built with a **Python backend CMS API** and an
 
 ## 🧱 Project Structure
 
+```
 blog-app/
 ├── backend/       → Python API (e.g., FastAPI/Flask)
 ├── frontend/      → Angular frontend
-
+```
 
 ---
 
