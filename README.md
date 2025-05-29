@@ -1,5 +1,7 @@
-## 🚀 Live Demo
-https://blog.fahrnbach.one
+# 🚀 BLOG - So it is Written
+
+**Live Site:** [blog.fahrnbach.one](https://blog.fahrnbach.one)  
+**Repo:** [github.com/fahrnbach/blog-monorepo](https://github.com/fahrnbach/blog-monorepo)  
 
 ![Screenshot](./portfolio-screenshot.png)
 
