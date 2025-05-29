@@ -98,8 +98,3 @@ The Angular app runs at `http://localhost:4200` and pulls blog data from the bac
 [fahrnbach.one](https://fahrnbach.one)
 
 ---
-
-## 🪪 License
-
-MIT License (or your preferred license)
-```
