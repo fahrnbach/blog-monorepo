@@ -1,32 +1,105 @@
-# BlogFahrnbachOne
+## 🚀 Live Demo
+https://blog.fahrnbach.one
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+![Screenshot](./portfolio-screenshot.png)
 
-## Development server
+## 📁 Folder Structure
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+```
+blog-app/
+├── backend/                  # Python CMS API
+│   ├── app/                  # Your Python code (e.g. Flask/FastAPI modules)
+│   ├── requirements.txt      # Python dependencies
+│   └── README.md             # Backend-specific setup
+│
+├── frontend/                 # Angular frontend
+│   ├── src/                  # Angular source code
+│   ├── angular.json
+│   └── README.md             # Frontend-specific setup
+│
+├── .gitignore
+└── README.md                 # Root project documentation
+```
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📄 Root `README.md`
 
-## Build
+# Blog CMS with Angular Frontend and Python Backend
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This is a full-stack blog project built with a **Python backend CMS API** and an **Angular frontend**. Posts are stored as Markdown files and served via a headless API to a dynamic front-end site.
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🧱 Project Structure
 
-## Running end-to-end tests
+```
+blog-app/
+├── backend/       → Python API (e.g., FastAPI/Flask)
+├── frontend/      → Angular frontend
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
+---
+---\----------------------------------------------------------\---
+## 🚀 Getting Started
 
-## Further help
+### 1. Clone the Repository
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+git clone https://github.com/your-username/blog-app.git
+cd blog-app
+```
 
+---
 
-## NOTES FOR DEPLOYING ANGULAR PROJECT ON CLOUDFLARE
-Change build cmd to:
-ng build --verbose --output-path dist/cloudflare
+### 2. Run the Backend (Python)
+
+```bash
+cd backend
+python3 -m venv venv
+source venv/bin/activate      # Use `venv\Scripts\activate` on Windows
+pip install -r requirements.txt
+python main.py
+```
+
+This starts the CMS API at `http://localhost:8000` (or your configured port).
+
+---
+
+### 3. Run the Frontend (Angular)
+
+```bash
+cd frontend
+npm install
+ng serve
+```
+
+The Angular app runs at `http://localhost:4200` and pulls blog data from the backend API.
+
+---
+
+## 📦 Tech Stack
+
+- **Frontend**: Angular 16+
+- **Backend**: Python (FastAPI or Flask)
+- **Blog Content**: Markdown files
+- **API Format**: JSON
+
+---
+
+## 📚 Future Plans
+
+- Authentication for blog editing
+- CMS admin interface
+- Deployment to AWS or Render
+- Styling improvements and animations
+
+---
+
+## 🧠 Author
+
+**Jacob Fahrnbach**  
+[fahrnbach.one](https://fahrnbach.one)
+
+---
