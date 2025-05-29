@@ -99,13 +99,14 @@ The Angular app runs at `http://localhost:4200` and pulls blog data from the bac
 
 # Portfolio Links:
 
->[🌐 Live Demo (Portfolio Site)](https://fahrnbach.one)
+>[📖 Live Demo (Blog)](https://blog.fahrnbach.one)
+>
+>[🌐 Portfolio Site](https://fahrnbach.one)
 >
 >[🗃️ Angular Component Library](https://library.fahrnbach.one)
 >
 >[🎨 Art App](https://art.fahrnbach.one)
->
->[📖 Blog App w/ Python CMS](https://blog.fahrnbach.one)
+
 
 ## 📬 Let’s Connect
 
