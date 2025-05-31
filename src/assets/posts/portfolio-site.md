@@ -63,4 +63,5 @@ I see this site as an evolving canvas — both for future design systems and for
 ## 🔗 Links
 
 - 🔗 [Live Site](https://fahrnbach.one)  
-- 💻 [Source Code](https://github.com/fahrnbach/portfolio)
+- 💻 [Source Code](https://github.com/fahrnbach/portfolio-site)
+- 😼 [Github](https://github.com/fahrnbach)

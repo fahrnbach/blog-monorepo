@@ -79,8 +79,8 @@ It’s the platform for the rest of the portfolio — and now, one more portfoli
 ## 🔗 Links
 
 - 🔗 [Live Blog](https://blog.fahrnbach.one)  
-- 💻 [Source Code](https://github.com/fahrnbach/blog) *(WIP)*  
-
+- 💻 [Source Code](https://github.com/fahrnbach/blog-monorepo)
+- 😼 [Github](https://github.com/fahrnbach)
 ---
 
 ### 🛠️ Looking Ahead

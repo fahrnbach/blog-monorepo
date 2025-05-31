@@ -64,3 +64,4 @@ This project shows not just what I can build — but **how I think** about the i
 
 - 🎨 [Live Site](https://art.fahrnbach.one)  
 - 💻 [Source Code](https://github.com/fahrnbach/art-app)
+- 😼 [Github](https://github.com/fahrnbach)

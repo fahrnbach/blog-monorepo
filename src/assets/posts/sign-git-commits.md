@@ -161,3 +161,9 @@ If you found this useful:
 Happy coding! 🚀
 
 — Written by Jacob Fahrnbach on November 13, 2024 at 9:35 PM
+
+## 🔗 Links
+
+- 🔗 [Live Site](https://fahrnbach.one)  
+- 💻 [Source Code](https://github.com/fahrnbach)
+- 😼 [Github](https://github.com/fahrnbach)

@@ -66,4 +66,5 @@ Future additions will include:
 ## 🔗 Links
 
 - 🔗 [Live Preview](https://components.fahrnbach.one) *(Coming Soon)*  
-- 💻 [Source Code](https://github.com/fahrnbach/angular-components) *(Private / WIP)*  
+- 💻 [Source Code](https://github.com/fahrnbach/angular-components) *(WIP)*  
+- 😼 [Github](https://github.com/fahrnbach)
