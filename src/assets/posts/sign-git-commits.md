@@ -155,8 +155,10 @@ If you found this useful:
 
 - 🐦 Say hi on social  
 - ☕ Buy me a coffee  
-- 🛍️ Check out my glitch art shop  
+- 🛍️ Check out my glitch art shop  (Coming Soon)
 - 💬 Ask questions or leave feedback anytime!
+
+Email: jacob@fahrnbach.one
 
 Happy coding! 🚀
 
