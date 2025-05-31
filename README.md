@@ -1,5 +1,7 @@
-## 🚀 Live Demo
-https://blog.fahrnbach.one
+# 🚀 BLOG - So it is Written
+
+**Live Site:** [blog.fahrnbach.one](https://blog.fahrnbach.one)  
+**Repo:** [github.com/fahrnbach/blog-monorepo](https://github.com/fahrnbach/blog-monorepo)  
 
 ![Screenshot](./portfolio-screenshot.png)
 
@@ -97,9 +99,23 @@ The Angular app runs at `http://localhost:4200` and pulls blog data from the bac
 
 ---
 
-## 🧠 Author
+# Portfolio Links:
 
-**Jacob Fahrnbach**  
-[fahrnbach.one](https://fahrnbach.one)
+>[📖 Live Demo (Blog)](https://blog.fahrnbach.one)
+>
+>[🌐 Portfolio Site](https://fahrnbach.one)
+>
+>[🗃️ Angular Component Library](https://library.fahrnbach.one)
+>
+>[🎨 Art App](https://art.fahrnbach.one)
+
+
+## 📬 Let’s Connect
+
+- 🌐 Portfolio: [fahrnbach.one](https://fahrnbach.one)
+- 💼 LinkedIn: *https://www.linkedin.com/in/fahrnbach*
+- 📧 Email: *jacob@fahrnbach.one*
 
 ---
+
+> *“Code is craft. Design is empathy. My goal is to bridge the two.”*
